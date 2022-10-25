@@ -1,0 +1,4 @@
+prebuilt_font {
+    name: "MiSans-Regular.ttf",
+    src: "MiSans-Regular.ttf",
+}
